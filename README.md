@@ -1,6 +1,6 @@
 # READ ME
 
-This tool is used to query JAVA third-party jar's version in Command line manner.
+This tool is used to query JAVA third-party jar version in terminal.
 
 Usage:
 
